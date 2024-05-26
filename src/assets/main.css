@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(4,31,46);
+    background: linear-gradient(180deg, rgba(4,31,46,1) 0%, rgba(1,45,79,1) 50%, rgba(18,54,87,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+}
